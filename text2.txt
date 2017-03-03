@@ -1,0 +1,12 @@
+ Volume in drive D is New Volume 1
+ Volume Serial Number is C63D-AC2E
+
+ Directory of D:\GIT projects
+
+03/02/2017  08:04 PM    <DIR>          .
+03/02/2017  08:04 PM    <DIR>          ..
+03/02/2017  07:24 PM               392 index.html
+03/02/2017  07:23 PM                 8 test.txt
+03/02/2017  08:04 PM                 0 text2.txt
+               3 File(s)            400 bytes
+               2 Dir(s)  117,362,577,408 bytes free
