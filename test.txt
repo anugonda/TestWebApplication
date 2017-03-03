@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume 1
+ Volume Serial Number is C63D-AC2E
+
+ Directory of D:\GIT projects
+
+03/02/2017  07:15 PM    <DIR>          .
+03/02/2017  07:15 PM    <DIR>          ..
+03/02/2017  07:15 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  117,362,581,504 bytes free
